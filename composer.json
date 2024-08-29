@@ -1,0 +1,15 @@
+{
+    "name": "vladimir-grinko/simple-increment",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "VladimirGrinko\\SimpleIncrement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VladimirGrinko"
+        }
+    ],
+    "require": {}
+}
