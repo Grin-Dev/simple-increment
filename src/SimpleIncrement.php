@@ -8,6 +8,6 @@ class SimpleIncrement
 {
     public function main(int $value): int
     {
-        return $value++;
+        return ++$value;
     }
 }

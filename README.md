@@ -17,6 +17,6 @@ composer require vladimir-grinko/simple-increment
 ```php
 <?php
 
-$increment = new SimpleIncrement();
+$increment = new VladimirGrinko\SimpleIncrement\SimpleIncrement();
 echo $increment->main(6); //7
 ```
